@@ -4,6 +4,10 @@ import Concept from './pages/Concept';
 import Home from './pages/Home';
 import {Portraits, Créations} from './pages/Portfolio';
 
+setInterval(callApp, 1500000);
+async function callApp() {
+  await fetch('https://gminiphotography.herokuapp.com/');
+}
 const App = () => {
   return (
     <BrowserRouter>

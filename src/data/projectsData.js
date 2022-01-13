@@ -42,7 +42,7 @@ export const projectsData = [
     img: "./assets/img/portraits/IMG_1787.JPG"
   },
   {
-    id: 8,
+    id: 7,
     title: "Candyshop",
     type: "portrait",
     img: "./assets/img/portraits/IMG_1942.jpg"

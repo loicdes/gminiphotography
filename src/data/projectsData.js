@@ -15,19 +15,19 @@ export const projectsData = [
     id: 3,
     title: "愛",
     type: "portrait",
-    img: "./assets/img/portraits/IMG_1683.jpg"
+    img: "./assets/img/portraits/IMG_1683.JPG"
   },
   {
     id: 3,
     title: "Red Room Vol.1",
     type: "portrait",
-    img: "./assets/img/portraits/IMG_1784.jpg"
+    img: "./assets/img/portraits/IMG_1784.JPG"
   },
   {
     id: 4,
     title: "Red Room Vol.2",
     type: "portrait",
-    img: "./assets/img/portraits/IMG_1726.jpg"
+    img: "./assets/img/portraits/IMG_1726.JPG"
   },
   {
     id: 5,
@@ -39,7 +39,7 @@ export const projectsData = [
     id: 6,
     title: "Blue notes",
     type: "portrait",
-    img: "./assets/img/portraits/IMG_1787.jpg"
+    img: "./assets/img/portraits/IMG_1787.JPG"
   },
   {
     id: 8,
@@ -51,25 +51,25 @@ export const projectsData = [
     id: 9,
     title: "Candle lights",
     type: "creation",
-    img: "./assets/img/creations/IMG_1045.jpg"
+    img: "./assets/img/creations/IMG_1045.JPG"
   },
   {
     id: 10,
     title: "Requiem for a shadow Vol.1",
     type: "creation",
-    img: "./assets/img/creations/IMG_1491.jpg"
+    img: "./assets/img/creations/IMG_1491.JPG"
   },
   {
     id: 11,
     title: "Requiem for a shadow Vol.2",
     type: "creation",
-    img: "./assets/img/creations/IMG_1495.jpg"
+    img: "./assets/img/creations/IMG_1495.JPG"
   },
   {
     id: 12,
     title: "Autre monde",
     type: "creation",
-    img: "./assets/img/creations/IMG_1719.jpg"
+    img: "./assets/img/creations/IMG_1719.JPG"
   },
   {
     id: 13,

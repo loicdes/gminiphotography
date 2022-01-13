@@ -15,7 +15,7 @@ const Home = () => {
                     <h1>GminiPhotography</h1>
                     <h2><DynamicText/></h2>
                 </div>
-            <NavigationButtons right={'/portraits'}></NavigationButtons>
+            <NavigationButtons right={'/concept'}></NavigationButtons>
             </div>
         </div>
     </div>

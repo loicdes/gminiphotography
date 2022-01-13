@@ -6,19 +6,19 @@ export const projectsData = [
     img: "./assets/img/portraits/IMG_2810.jpg"
   },
   {
-    id: 2,
-    title: "Color show",
-    type: "portrait",
-    img: "./assets/img/portraits/IMG_0276.jpg"
-  },
-  {
     id: 3,
     title: "愛",
     type: "portrait",
     img: "./assets/img/portraits/IMG_1683.JPG"
   },
   {
-    id: 3,
+    id: 2,
+    title: "Color show",
+    type: "portrait",
+    img: "./assets/img/portraits/IMG_0276.jpg"
+  },
+  {
+    id: 8,
     title: "Red Room Vol.1",
     type: "portrait",
     img: "./assets/img/portraits/IMG_1784.JPG"
@@ -66,16 +66,16 @@ export const projectsData = [
     img: "./assets/img/creations/IMG_1495.JPG"
   },
   {
-    id: 12,
-    title: "Autre monde",
-    type: "creation",
-    img: "./assets/img/creations/IMG_1719.JPG"
-  },
-  {
     id: 13,
     title: "Astroworld Vol.1",
     type: "creation",
     img: "./assets/img/creations/IMG_2899.jpg"
+  },
+  {
+    id: 12,
+    title: "Autre monde",
+    type: "creation",
+    img: "./assets/img/creations/IMG_1719.JPG"
   },
   {
     id: 14,

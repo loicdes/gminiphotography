@@ -3,7 +3,7 @@
   display: flex;
 
   .simply {
-    color: $color-4;
+    color: lightgray;
   }
 
   #text-target {
@@ -19,13 +19,13 @@
   }
   @keyframes color {
     0% {
-      color: $color-2;
+      color: lightgray;
     }
     50% {
-      color: $color-4;
+      color: paleturquoise;
     }
     100% {
-      color: $color-2;
+      color: lightgray;
     }
   }
   .letter {

@@ -11,7 +11,7 @@ $font-1: "font-1", sans-serif;
 $font-2: "font-2", serif;
 
 $color-1: #fafeff;
-$color-2: #00c1ec;
+$color-2: beige;
 $color-3: #e7f7fe;
 $color-4: rgb(141, 141, 141);
 $black: rgb(40, 40, 40);
@@ -41,8 +41,8 @@ a:visited {
 body {
   font-family: $font-1;
   height: 100vh;
-  background-color: $color-1;
-  color: $black;
+  background-color: rgba(0, 0, 0, 0.95);
+  color: white;
   overflow: hidden;
 
   @media screen and (max-width: 430px){

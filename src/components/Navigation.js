@@ -8,6 +8,9 @@ export const Navigation = () => {
                 <NavLink to="/" className="hover" activeClassName="nav-active">
                     <li>Accueil</li>
                 </NavLink>
+                <NavLink to="/concept" className="hover" activeClassName="nav-active">
+                    <li>Concept</li>
+                </NavLink>
                 <li className='nav-portfolio'>
                     Portfolio
                     <ul className='nav-projects'>
@@ -19,9 +22,6 @@ export const Navigation = () => {
                         </NavLink>
                     </ul>
                 </li>
-                <NavLink to="/contact" className="hover" activeClassName="nav-active">
-                    <li>Contact</li>
-                </NavLink>
             </ul>
         </div>
     )

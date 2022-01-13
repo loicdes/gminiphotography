@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Contact from './pages/Contact';
+import Concept from './pages/Concept';
 import Home from './pages/Home';
 import {Portraits, Créations} from './pages/Portfolio';
 
@@ -11,7 +11,7 @@ const App = () => {
         <Route path ="/" element={<Home/>}/>
         <Route path ="/portraits" element={<Portraits/>}/>
         <Route path ="/creations" element={<Créations/>}/>
-        <Route path ="/contact" element={<Contact/>}/>
+        <Route path ="/concept" element={<Concept/>}/>
         <Route path ="*" element={<Home/>}/>
       </Routes>
     </BrowserRouter>

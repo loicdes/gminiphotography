@@ -28,7 +28,7 @@ export const Portraits = () => {
         </div>
         <Navigation></Navigation>
         <SocialNetworks></SocialNetworks>
-        <NavigationButtons left={'/'} right={'/creations'}></NavigationButtons>
+        <NavigationButtons left={'/concept'} right={'/creations'}></NavigationButtons>
       </div>
     </main>
   );
@@ -58,7 +58,7 @@ export const Créations = () => {
         </div>
         <Navigation></Navigation>
         <SocialNetworks></SocialNetworks>
-        <NavigationButtons left={'/portraits'} right={'/contact'}></NavigationButtons>
+        <NavigationButtons left={'/portraits'}></NavigationButtons>
       </div>
     </main>
   );

@@ -6,9 +6,7 @@ import {Portraits, Créations} from './pages/Portfolio';
 
 setInterval(callApp, 10000);
 async function callApp() {
-  console.log('Appel');
-  const res = await fetch('https://gminiphotography.herokuapp.com/');
-  console.log(res);
+  await fetch('https://gminiphotography.herokuapp.com/');
 }
 const App = () => {
   return (

@@ -18,6 +18,12 @@ export const projectsData = [
     img: "./assets/img/portraits/IMG_0276.jpg"
   },
   {
+    id: 16,
+    title: "Coin de paradis",
+    type: "portrait",
+    img: "./assets/img/portraits/IMG_3009.jpg"
+  },
+  {
     id: 8,
     title: "Red Room Vol.1",
     type: "portrait",
@@ -46,6 +52,12 @@ export const projectsData = [
     title: "Candyshop",
     type: "portrait",
     img: "./assets/img/portraits/IMG_1942.jpg"
+  },
+  {
+    id: 15,
+    title: "Balade hivernale",
+    type: "portrait",
+    img: "./assets/img/portraits/IMG_3046.jpg"
   },
   {
     id: 9,

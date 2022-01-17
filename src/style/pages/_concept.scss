@@ -1,8 +1,29 @@
+
+.text {
+  text-align: justify;
+  p {
+    margin-bottom: 35px;
+  }
+  li {
+    margin-bottom: 5px;
+    margin-left: 30px;
+    list-style-type: circle;
+    display: flex;
+    p {
+      flex: 1;
+      font-size: larger;
+    }
+    .end {
+      text-align: right;
+      font-size: unset;
+    }
+  }
+}
+
 .concept {
   position: absolute;
   width: 100vw;
   height: 100vh;
-
   &:after {
     content: "";
     height: 700px;
@@ -44,7 +65,7 @@
     right: 1rem;
   }
 
-  .contact-form {
+  .concept-text {
     margin: 7% 0 0 24%;
     max-width: 50%;
     position: relative;

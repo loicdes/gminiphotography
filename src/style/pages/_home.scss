@@ -55,6 +55,9 @@
         position: relative;
         font-family: $font-2;
         color: lightgray;
+        background: -webkit-linear-gradient(white, rgba(0, 0, 0, 0.753));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
 
         @media screen and (max-width: 650px){
           font-size: 1.9rem;

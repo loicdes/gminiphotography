@@ -55,7 +55,7 @@ export const projectsData = [
   },
   {
     id: 15,
-    title: "Balade hivernale",
+    title: "Drive",
     type: "portrait",
     img: "./assets/img/portraits/IMG_3046.jpg"
   },

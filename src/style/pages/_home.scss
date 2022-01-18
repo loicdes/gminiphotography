@@ -57,6 +57,7 @@
         color: lightgray;
         background: -webkit-linear-gradient(white, rgba(0, 0, 0, 0.753));
         -webkit-background-clip: text;
+        background-clip: text;
         -webkit-text-fill-color: transparent;
 
         @media screen and (max-width: 650px){

@@ -23,7 +23,7 @@ export const SocialNetworks = () => {
                 <a href='https://www.facebook.com/lLoic.D/' onMouseOver={anim} target='_blank' rel='noopener noreferrer' className='hover'>
                     <li><i className='fab fa-facebook-messenger'></i></li>
                 </a>
-                <a href='https://wa.me/768402148' onMouseOver={anim} target='_blank' rel='noopener noreferrer' className='hover'>
+                <a href='https://wa.me/33768402148' onMouseOver={anim} target='_blank' rel='noopener noreferrer' className='hover'>
                     <li><i className='fab fa-whatsapp'></i></li>
                 </a>
             </ul>

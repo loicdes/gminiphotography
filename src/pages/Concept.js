@@ -19,7 +19,7 @@ const Concept = () => {
               <li><p>⭐ Waouh !</p><p className='end'>- Se découvrir</p></li>
               <li><p>⭐ C'est moi ça ?</p><p className='end'>- S'accepter</p></li>
               <li><p>⭐ C'est moi ça !</p><p className='end'>- S'inculquer cette vision</p></li>
-              <li><p>⭐ J'ai de la valeur !</p><p className='end'>- Repartir confiant en sa personne</p></li>
+              <li><p>⭐ J'ai de la valeur !</p><p className='end'>- Valoriser sa personne</p></li>
             </ul>
           </div>
         </div>

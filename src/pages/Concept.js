@@ -14,12 +14,12 @@ const Concept = () => {
           <div className='text'>
             <p>Dans un monde où nous sommes constamment en concurrence, comparés aux autres voire rabaissés, il est important de <b>prendre confiance en soi !</b></p>
             <p>"Gmini" est la tournure anglaise de "gémeaux" qui lui même est relatif à "jumeaux". L'objectif recherché est que les modèles puissent se voir <b>tels qu'ils sont réellement</b>, au travers d'un oeil extérieur.</p>
-            <p>Un shooting réussi, pour moi, comprend <b>4 réactions</b> : </p>
+            <p>Pour ma part, un shooting réussi comprend <b>4 réactions</b> : </p>
             <ul>
-              <li><p>⭐ Waouh !</p><p className='end'>- Se découvrir</p></li>
-              <li><p>⭐ C'est moi ça ?</p><p className='end'>- S'accepter</p></li>
-              <li><p>⭐ C'est moi ça !</p><p className='end'>- S'inculquer cette vision</p></li>
-              <li><p>⭐ J'ai de la valeur !</p><p className='end'>- Valoriser sa personne</p></li>
+              <li><p>⭐ Waouh !</p><p className='end'>- Se surprendre</p></li>
+              <li><p>⭐ C'est moi ça ?</p><p className='end'>- Se découvrir</p></li>
+              <li><p>⭐ C'est moi ça !</p><p className='end'>- S'accepter</p></li>
+              <li><p>⭐ Je suis fier de qui je suis !</p><p className='end'>- Se valoriser</p></li>
             </ul>
           </div>
         </div>

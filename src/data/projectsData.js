@@ -30,16 +30,16 @@ export const projectsData = [
     img: "./assets/img/portraits/IMG_1784.JPG"
   },
   {
-    id: 4,
-    title: "Red Room Vol.2",
-    type: "portrait",
-    img: "./assets/img/portraits/IMG_1726.JPG"
-  },
-  {
     id: 5,
     title: "Godfather",
     type: "portrait",
     img: "./assets/img/portraits/IMG_2890.jpg"
+  },
+  {
+    id: 4,
+    title: "Red Room Vol.2",
+    type: "portrait",
+    img: "./assets/img/portraits/IMG_1726.JPG"
   },
   {
     id: 6,
@@ -60,22 +60,10 @@ export const projectsData = [
     img: "./assets/img/portraits/IMG_3046.jpg"
   },
   {
-    id: 9,
-    title: "Candle lights",
+    id: 12,
+    title: "Autre monde",
     type: "creation",
-    img: "./assets/img/creations/IMG_1045.JPG"
-  },
-  {
-    id: 10,
-    title: "Requiem for a shadow Vol.1",
-    type: "creation",
-    img: "./assets/img/creations/IMG_1491.JPG"
-  },
-  {
-    id: 11,
-    title: "Requiem for a shadow Vol.2",
-    type: "creation",
-    img: "./assets/img/creations/IMG_1495.JPG"
+    img: "./assets/img/creations/IMG_1719.JPG"
   },
   {
     id: 13,
@@ -84,15 +72,27 @@ export const projectsData = [
     img: "./assets/img/creations/IMG_2899.jpg"
   },
   {
-    id: 12,
-    title: "Autre monde",
+    id: 10,
+    title: "Requiem for a shadow Vol.1",
     type: "creation",
-    img: "./assets/img/creations/IMG_1719.JPG"
+    img: "./assets/img/creations/IMG_1491.JPG"
   },
   {
     id: 14,
     title: "Astroworld Vol.2",
     type: "creation",
     img: "./assets/img/creations/IMG_2913.jpg"
+  },
+  {
+    id: 11,
+    title: "Requiem for a shadow Vol.2",
+    type: "creation",
+    img: "./assets/img/creations/IMG_1495.JPG"
+  },
+  {
+    id: 9,
+    title: "Candle lights",
+    type: "creation",
+    img: "./assets/img/creations/IMG_1045.JPG"
   }
 ];

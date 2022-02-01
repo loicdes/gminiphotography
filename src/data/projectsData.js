@@ -24,12 +24,6 @@ export const projectsData = [
     img: "./assets/img/portraits/IMG_3009.jpg"
   },
   {
-    id: 8,
-    title: "Red Room Vol.1",
-    type: "portrait",
-    img: "./assets/img/portraits/IMG_1784.JPG"
-  },
-  {
     id: 5,
     title: "Godfather",
     type: "portrait",
@@ -37,7 +31,7 @@ export const projectsData = [
   },
   {
     id: 4,
-    title: "Red Room Vol.2",
+    title: "Red Room",
     type: "portrait",
     img: "./assets/img/portraits/IMG_1726.JPG"
   },

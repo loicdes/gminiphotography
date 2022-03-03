@@ -48,6 +48,12 @@ export const projectsData = [
     img: "./assets/img/portraits/IMG_1942.jpg"
   },
   {
+    id: 8,
+    title: "Adventures in Wonderland Vol.1",
+    type: "creation",
+    img: "./assets/img/creations/IMG_3142.jpg"
+  },
+  {
     id: 15,
     title: "Drive",
     type: "portrait",
@@ -88,5 +94,23 @@ export const projectsData = [
     title: "Candle lights",
     type: "creation",
     img: "./assets/img/creations/IMG_1045.JPG"
+  },
+  {
+    id: 17,
+    title: "Adventures in Wonderland Vol.2",
+    type: "creation",
+    img: "./assets/img/creations/IMG_3184.JPG"
+  },
+  {
+    id: 18,
+    title: "Fantasy",
+    type: "portrait",
+    img: "./assets/img/portraits/IMG_3294.JPG"
+  },
+  {
+    id: 19,
+    title: "Dreamlike",
+    type: "portrait",
+    img: "./assets/img/portraits/IMG_3290.JPG"
   }
 ];

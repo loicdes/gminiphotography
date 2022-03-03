@@ -99,18 +99,18 @@ export const projectsData = [
     id: 17,
     title: "Adventures in Wonderland Vol.2",
     type: "creation",
-    img: "./assets/img/creations/IMG_3184.JPG"
+    img: "./assets/img/creations/IMG_3184.jpg"
   },
   {
     id: 18,
     title: "Fantasy",
     type: "portrait",
-    img: "./assets/img/portraits/IMG_3294.JPG"
+    img: "./assets/img/portraits/IMG_3294.jpg"
   },
   {
     id: 19,
     title: "Dreamlike",
     type: "portrait",
-    img: "./assets/img/portraits/IMG_3290.JPG"
+    img: "./assets/img/portraits/IMG_3290.jpg"
   }
 ];

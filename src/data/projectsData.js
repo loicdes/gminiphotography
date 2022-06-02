@@ -112,5 +112,11 @@ export const projectsData = [
     title: "Dreamlike",
     type: "portrait",
     img: "./assets/img/portraits/IMG_3290.jpg"
-  }
+  },
+  {
+    id: 20,
+    title: "Karibea",
+    type: "creation",
+    img: "./assets/img/creations/IMG_3989.jpg"
+  },
 ];
